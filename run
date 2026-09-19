@@ -1,0 +1,108 @@
+#!/bin/bash
+
+set -o errexit
+set -o pipefail
+
+source .env
+
+function ps {
+    ./vendor/bin/sail ps
+}
+
+function up {
+    ./vendor/bin/sail up -d "${@}"
+}
+
+function down {
+    ./vendor/bin/sail down "${@}"
+}
+
+function composer {
+    # Usa a imagem oficial do Composer para funcionar mesmo se a pasta vendor/ ainda não existir
+    docker run --rm --interactive \
+        -e COMPOSER_CACHE_DIR="/app/.cache/composer" \
+        -u "$(id -u):$(id -g)" \
+        -v "$(pwd):/app" \
+        -w /app \
+        composer:2.7 composer "${@}"
+}
+
+function artisan {
+    # Atalho genérico — qualquer comando artisan que não tenha um atalho dedicado
+    ./vendor/bin/sail artisan "${@}"
+}
+
+function npm {
+    ./vendor/bin/sail npm "${@}"
+}
+
+function key:generate {
+    ./vendor/bin/sail artisan key:generate
+}
+
+function migrate {
+    ./vendor/bin/sail artisan migrate
+}
+
+function install {
+    # Instala dependências JS e roda as migrations — usar depois do primeiro "up"
+    ./vendor/bin/sail npm install
+    ./vendor/bin/sail artisan migrate
+}
+
+function php:console {
+    # Abre o Tinker (REPL interativo do Laravel)
+    ./vendor/bin/sail tinker
+}
+
+function test {
+    # Roda os testes usando o artisan
+    TEST_PATH="${@}"
+    ./vendor/bin/sail artisan test ${TEST_PATH}
+}
+
+function test:browser {
+    # Se futuramente instalar o Laravel Dusk para testes e2e
+    ./vendor/bin/sail dusk "${@}"
+}
+
+# Substitui o phpcs e phpcbf (O Pint já faz a checagem e a correção automática)
+function pint {
+    ./vendor/bin/sail pint "${@}"
+}
+
+function git:clean:branchs {
+    git branch | grep -v '\*\|master\|main\|develop\|production' | xargs -n 1 git branch -D
+}
+
+function db:console {
+    # O Sail tem um atalho direto para acessar o terminal do PostgreSQL
+    ./vendor/bin/sail psql
+}
+
+function db:reset {
+    # Dropa todas as tabelas e recria a estrutura limpa
+    ./vendor/bin/sail artisan migrate:fresh
+}
+
+function test:db:reset {
+    APP_ENV=testing ./vendor/bin/sail artisan migrate:fresh --env=testing
+}
+
+function db:populate {
+    # Roda as seeders para popular o banco
+    ./vendor/bin/sail artisan db:seed
+}
+
+# Bônus: um atalho muito usado no Laravel que faz o reset + populate de uma vez
+function db:fresh {
+    ./vendor/bin/sail artisan migrate:fresh --seed
+}
+
+function tw {
+    # Roda o Vite, que compila o Tailwind e atualiza o navegador em tempo real
+    ./vendor/bin/sail npm run dev
+}
+
+TIMEFORMAT=$'\nTask completed in %3lR'
+time "${@}"
