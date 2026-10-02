@@ -58,7 +58,7 @@ Plataforma web gratuita para realização de simulados personalizados do ENEM, c
 
    ```bash
    ./run npm install
-   ./run tw
+   ./run dev
    ```
 
 8. Acesse [http://localhost](http://localhost).
@@ -80,7 +80,7 @@ O projeto inclui um script `run` com atalhos para os comandos mais usados:
 | `./run db:populate` | Roda as seeders |
 | `./run db:fresh` | Reset + seed em um só comando |
 | `./run php:console` | Abre o Tinker (REPL do Laravel) |
-| `./run tw` | Compila o Tailwind/assets em modo watch (Vite) |
+| `./run dev` | Compila o Tailwind/assets em modo watch (Vite) |
 | `./run git:clean:branchs` | Remove branches locais já mescladas |
 | `./run artisan <comando>` | Atalho genérico para qualquer comando Artisan sem um atalho dedicado |
 | `./run npm <comando>` | Atalho genérico para qualquer comando npm |

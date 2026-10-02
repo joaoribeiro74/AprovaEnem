@@ -99,8 +99,8 @@ function db:fresh {
     ./vendor/bin/sail artisan migrate:fresh --seed
 }
 
-function tw {
-    # Roda o Vite, que compila o Tailwind e atualiza o navegador em tempo real
+function dev {
+    # Inicia o servidor do Vite (Front-end, Tailwind, JS, etc.)
     ./vendor/bin/sail npm run dev
 }
 
