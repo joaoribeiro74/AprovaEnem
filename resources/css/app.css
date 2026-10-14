@@ -4,6 +4,24 @@
 @source '../../storage/framework/views/*.php';
 
 @theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+    /* Tipografia */
+    --font-sans: "Lexend", ui-sans-serif, system-ui, sans-serif;
+
+    /* Cores de Ação (Links, Botões, Destaques) */
+    --color-active: #1D4ED8;
+    --color-active-hover: #3B82F6;
+    --color-active-header: #1E3A8A;
+
+    /* Cores de Texto */
+    --color-main: #1E293B;
+    --color-muted: #64748B;
+
+    /* Cores de Fundo e Estrutura */
+    --color-base: #F8FAFC;
+    --color-border: #E2E8F0;
+
+    /* Cores de Estado / Retorno */
+    --color-error: #FF0000;
+    --color-success: #16A34A;
+    --color-alert: #F59E0B;
 }
