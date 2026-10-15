@@ -4,7 +4,7 @@
     <div class="flex flex-col items-center justify-center w-full max-w-3xl mx-auto px-2.5 py-20 gap-8">
         <div class="text-center">
             <h1 class="text-3xl sm:text-4xl font-bold text-main">
-                Bem-vindo(a), {{ Auth::user()->name }}!
+                Bem-vindo(a), {{ Auth::user()->display_name }}!
             </h1>
             <p class="text-lg text-muted mt-2">
                 Você acessou a área protegida do AprovaEnem.

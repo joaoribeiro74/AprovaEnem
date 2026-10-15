@@ -2,10 +2,9 @@
 
 namespace Tests\Feature\Auth;
 
-use Illuminate\Foundation\Testing\RefreshDatabase;
-use Illuminate\Foundation\Testing\WithFaker;
-use Tests\TestCase;
 use App\Models\User;
+use Illuminate\Foundation\Testing\RefreshDatabase;
+use Tests\TestCase;
 
 class LoginTest extends TestCase
 {
@@ -14,7 +13,7 @@ class LoginTest extends TestCase
     private function attemptLogin(string $email, string $password)
     {
         return $this->from(route('login'))->post(route('login.store'), [
-            'email'    => $email,
+            'email' => $email,
             'password' => $password,
         ]);
     }
@@ -24,7 +23,7 @@ class LoginTest extends TestCase
         $this->get(route('login'))
             ->assertOk()
             ->assertSee('id="password"', false)
-            ->assertSee('id="toggle-password"', false);
+            ->assertSee('data-password-toggle="password"', false);
     }
 
     public function test_empty_fields_fail_validation(): void
@@ -121,7 +120,7 @@ class LoginTest extends TestCase
     public function test_block_only_affects_the_email_that_hit_the_limit(): void
     {
         $blocked = User::factory()->create();
-        $other   = User::factory()->create();
+        $other = User::factory()->create();
 
         for ($i = 0; $i < 6; $i++) {
             $this->attemptLogin($blocked->email, 'wrong-password');

@@ -9,6 +9,7 @@ use Illuminate\Support\Str;
 class LoginRateLimiter
 {
     private const MAX_ATTEMPTS = 5;
+
     private const DECAY_SECONDS = 60;
 
     public function __construct(private RateLimiter $rateLimiter) {}
@@ -34,6 +35,6 @@ class LoginRateLimiter
 
     private function key(string $email, string $ip): string
     {
-        return Str::lower($email) . '|' . $ip;
+        return Str::lower($email).'|'.$ip;
     }
 }

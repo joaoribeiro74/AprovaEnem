@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 
 class TooManyLoginAttemptsException extends Exception
 {
-    public function __construct(public readonly int $seconds) 
+    public function __construct(public readonly int $seconds)
     {
         parent::__construct(__('auth.throttle', ['seconds' => $seconds]));
     }

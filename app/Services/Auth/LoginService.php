@@ -13,9 +13,9 @@ class LoginService
     {
         $this->rateLimiter->ensureNotLimited($email, $ip);
 
-        if (!Auth::attempt(['email' => $email, 'password' => $password], $remember)) {
+        if (! Auth::attempt(['email' => $email, 'password' => $password], $remember)) {
             $this->rateLimiter->hit($email, $ip);
-            
+
             throw ValidationException::withMessages([
                 'email' => __('auth.failed'),
             ]);
