@@ -20,7 +20,7 @@ jobs:
         run: ./run composer install
 
       - name: Up containers
-        run: ./run up -d
+        run: ./run up
 
       - name: Setup Application
         run: |
