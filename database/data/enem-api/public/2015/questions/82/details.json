@@ -1,0 +1,45 @@
+{
+    "title": "Questão 82 - ENEM 2015",
+    "index": 82,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um experimento, um professor levou para a sala de aula um saco de arroz, um pedaço de madeira triangular e uma barra de ferro cilíndrica e homogênea. Ele propôs que fizessem a medição da massa da barra utilizando esses objetos. Para isso, os alunos fizeram marcações na barra, dividindo-a em oito partes iguais, e em seguida apoiaram-na sobre a base triangular, com o saco de arroz pendurado em uma de suas extremidades, até atingir a situação de equilíbrio.\n\n![](https://enem.dev/2015/questions/82/2770dcce-7280-4fcb-8da9-0ef2e43f53b7.png)",
+    "files": [
+        "https://enem.dev/2015/questions/82/2770dcce-7280-4fcb-8da9-0ef2e43f53b7.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Nessa situação, qual foi a massa da barra obtida pelos alunos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,00 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,75 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "5,00 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6,00 kg",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "15,00 kg",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

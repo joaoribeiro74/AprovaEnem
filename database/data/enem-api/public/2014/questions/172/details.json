@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2014",
+    "index": 172,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Os incas desenvolveram uma maneira de registrar quantidades e representar números utilizando um sistema de numeração decimal posicional: um conjunto de cordas com nós denominado quipus. O quipus era feito de uma corda matriz, ou principal (mais grossa que as demais), na qual eram penduradas outras cordas, mais finas, de diferentes tamanhos e cores (cordas pendentes). De acordo com a sua posição, os nós significavam unidades, dezenas, centenas e milhares. Na Figura 1, o quipus representa o número decimal 2 453. Para representar o “zero” em qualquer posição, não se coloca nenhum nó.\n\n![](https://enem.dev/2014/questions/172/d8842865-9aae-47ac-87d3-7eb78f57f384.png)\n\nDisponível em: www.culturaperuana.com.br. Acesse em: 13 dez. 2012.",
+    "files": [
+        "https://enem.dev/2014/questions/172/d8842865-9aae-47ac-87d3-7eb78f57f384.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "O número da representação do quipus da Figura 2, em base decimal, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "364.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "463.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3 064.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "3 640.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4 603.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

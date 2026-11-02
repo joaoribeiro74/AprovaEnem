@@ -1,0 +1,45 @@
+{
+    "title": "Questão 5 - ENEM 2023",
+    "index": 5,
+    "year": 2023,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](image-37.png)\n",
+    "files": [
+        "image-37.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Ao retratar o ambiente de trabalho em um escritório, esse cartum tem por objetivo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Criticar um padrão de vestimenta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Destacar a falta de diversidade.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Indicar um modo de interação.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Elogiar um modelo de organização.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Salientar o espírito de cooperação.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

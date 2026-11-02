@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2022",
+    "index": 144,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Cada número que identifica uma agência bancária tem quatro dígitos: N₁, N₂, N₃, N₄ mais um dígito verificador N₅.\n\n![](https://enem.dev/2022/questions/144/f88bc2d5-7b64-49cf-bd9d-28ddde048358.jpg)\n\nTodos esses dígitos são números naturais pertencentes ao conjunto {0, 1, 2, 3, 4, 5, 6, 7, 8, 9}. Para a determinação de N₅, primeiramente multiplica-se ordenadamente os quatro primeiros dígitos do número da agência por 5, 4, 3 e 2, respectivamente, somam-se os resultados e obtém-se S = 5 N₁ + 4 N₂ + 3 N₃ + 2 N₄. Posteriormente, encontra-se o resto da divisão de S por 11, denotando por R esse resto. Dessa forma, N₅ é a diferença 11 − R. Considere o número de uma agência bancária cujos quatro primeiros dígitos são 0100.",
+    "files": [
+        "https://enem.dev/2022/questions/144/f88bc2d5-7b64-49cf-bd9d-28ddde048358.jpg"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual é o dígito verificador N₅ dessa agência bancária?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "8",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

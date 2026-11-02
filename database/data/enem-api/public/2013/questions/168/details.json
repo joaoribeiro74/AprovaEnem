@@ -1,0 +1,48 @@
+{
+    "title": "Questão 168 - ENEM 2013",
+    "index": 168,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma fábrica de parafusos possui duas máquinas, I e II, para a produção de certo tipo de parafuso. Em setembro, a máquina I produziu ![](image-168a.png) do total de parafusos produzidos pela fábrica. Dos parafusos produzidos por essa máquina, ![](image-168b.png) eram defeituosos. Por sua vez, ![](image-168c.png) dos parafusos produzidos no mesmo mês pela máquina II eram defeituosos.\n\n O desempenho conjunto das duas máquinas é classificado conforme o quadro, em que P indica a probabilidade de um parafuso escolhido ao acaso ser defeituoso.\n\n![](https://enem.dev/2013/questions/168/a837d05f-4fe2-4d97-8542-fbcea6679fe9.png)",
+    "files": [
+        "image-168a.png",
+        "image-168b.png",
+        "image-168c.png",
+        "https://enem.dev/2013/questions/168/a837d05f-4fe2-4d97-8542-fbcea6679fe9.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O desempenho conjunto dessas máquinas, em setembro, pode ser classificado como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Excelente.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Bom.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Regular.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Ruim.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Péssimo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

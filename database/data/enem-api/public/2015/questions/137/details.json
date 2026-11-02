@@ -1,0 +1,43 @@
+{
+    "title": "Questão 137 - ENEM 2015",
+    "index": 137,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O tampo de vidro de uma mesa quebrou-se e deverá ser substituído por outro que tenha a forma de círculo. O suporte de apoio da mesa tem o formato de um prisma reto, de base em forma de triângulo equilátero com lados medindo 30 cm.\n\n Uma loja comercializa cinco tipos de tampos de vidro circulares com cortes já padronizados, cujos raios medem 18 cm, 26 cm, 30 cm, 35 cm e 60 cm. O proprietário da mesa deseja adquirir nessa loja o tampo de menor diâmetro que seja suficiente para cobrir a base superior do suporte da mesa.\n\nConsidere 1,7 como aproximação para √3.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O tampo a ser escolhido será aquele cujo raio, em centímetros, é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "18",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "26",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "30",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "35",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "60",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

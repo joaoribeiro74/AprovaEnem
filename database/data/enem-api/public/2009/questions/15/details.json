@@ -1,0 +1,45 @@
+{
+    "title": "Questão 15 - ENEM 2009",
+    "index": 15,
+    "year": 2009,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para que apresente condutividade elétrica adequada a muitas aplicações, o cobre bruto obtido por métodos térmicos é purificado eletroliticamente. Nesse processo, o cobre bruto impuro constitui o ânodo da célula, que está imerso em uma solução de CuSO₄. À medida que o cobre impuro é oxidado no ânodo, íons Cu²⁺ da solução são depositados na forma pura no cátodo. Quanto às impurezas metálicas, algumas são oxidadas, passando à solução, enquanto outras simplesmente se desprendem do ânodo e se sedimentam abaixo dele. As impurezas sedimentadas são posteriormente processadas, e sua comercialização gera receita que ajuda a cobrir os custos do processo. A série eletroquímica a seguir lista o cobre e alguns metais presentes como impurezas no cobre bruto de acordo com suas forças redutoras relativas.\n\n![](https://enem.dev/2009/questions/15/a4e6a5bb-5a91-4e8a-86f2-b4775c56178f.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/15/a4e6a5bb-5a91-4e8a-86f2-b4775c56178f.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Entre as impurezas metálicas que constam na série apresentada, as que se sedimentam abaixo do ânodo de cobre são",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Au, Pt, Ag, Zn, Ni e Pb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Au, Pt e Ag.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Zn, Ni e Pb.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Au e Zn.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ag e Pb.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 73 - ENEM 2011",
+    "index": 73,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em um experimento realizado para determinar a densidade da água de um lago, foram utilizados alguns materiais conforme ilustrado: um dinamômetro D com graduação de 0 N a 50 N e um cubo maciço e homogêneo de 10 cm de aresta e 3 kg de massa. Inicialmente, foi conferida a calibração do dinamômetro, constatando-se a leitura de 30 N quando o cubo era preso ao dinamômetro e suspenso no ar. Ao mergulhar o cubo na água do lago, até que metade do seu volume ficasse submersa, foi registrada a leitura de 24 N no dinamômetro.\n\n![](https://enem.dev/2011/questions/73/7a672448-cb1e-4ddc-865b-4f7c201c7323.png)",
+    "files": [
+        "https://enem.dev/2011/questions/73/7a672448-cb1e-4ddc-865b-4f7c201c7323.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Considerando que a aceleração da gravidade local é de 10 m/s², a densidade da água do lago, em g/cm³, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "0,6.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "1,2.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "1,5.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "2,4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "4,8.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

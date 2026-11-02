@@ -1,0 +1,45 @@
+{
+    "title": "Questão 148 - ENEM 2016",
+    "index": 148,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "O ábaco é um antigo instrumento de cálculo que usa notação posicional de base dez para representar números naturais. Ele pode ser apresentado em vários modelos, um deles é formado por hastes apoiadas em uma base. Cada haste corresponde a uma posição no sistema decimal e nelas são colocadas argolas; a quantidade de argolas na haste representa o algarismo daquela posição. Em geral, colocam-se adesivos abaixo das hastes com os símbolos U, D, C, M, DM e CM que correspondem, respectivamente, a unidades, dezenas, centenas, unidades de milhar, dezenas de milhar e centenas de milhar, sempre começando com a unidade na haste da direita e as demais ordens do número no sistema decimal nas hastes subsequentes (da direita para esquerda), até a haste que se encontra mais à esquerda.\n\n Entretanto, no ábaco da figura, os adesivos não seguiram a disposição usual.\n\n![](https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png)",
+    "files": [
+        "https://enem.dev/2016/questions/148/1a5c2092-7910-4ff5-8151-fc226f7d5abe.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Nessa disposição, o número que está representado na figura é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "46 171.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "147 016",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "171 064.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "460 171.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "610 741.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

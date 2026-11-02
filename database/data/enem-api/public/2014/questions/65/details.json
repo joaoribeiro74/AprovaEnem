@@ -1,0 +1,43 @@
+{
+    "title": "Questão 65 - ENEM 2014",
+    "index": 65,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A forma das moléculas, como representadas no papel, nem sempre é planar. Em um determinado fármaco, a molécula contendo um grupo não planar é biologicamente ativa, enquanto moléculas contendo substituintes planares são inativas.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O grupo responsável pela bioatividade desse fármaco é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-65a.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-65b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-65c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-65d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-65e.png",
+            "isCorrect": false
+        }
+    ]
+}

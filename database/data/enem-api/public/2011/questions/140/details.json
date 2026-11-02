@@ -1,0 +1,45 @@
+{
+    "title": "Questão 140 - ENEM 2011",
+    "index": 140,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em uma certa cidade, os moradores de um bairro carente de espaços de lazer reivindicam à prefeitura municipal a construção de uma praça. A prefeitura concorda com a solicitação e afirma que irá construí-la em formato retangular devido às características técnicas do terreno. Restrições de natureza orçamentária impõem que sejam gastos, no máximo, 180 m de tela para cercar a praça. A prefeitura apresenta aos moradores desse bairro as medidas dos terrenos disponíveis para a construção da praça:\n\n![](https://enem.dev/2011/questions/140/63404fc2-7491-4ee5-9975-d0c6857dd37a.png)",
+    "files": [
+        "https://enem.dev/2011/questions/140/63404fc2-7491-4ee5-9975-d0c6857dd37a.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Para optar pelo terreno de maior área, que atenda às restrições impostas pela prefeitura, os moradores deverão escolher o terreno.",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

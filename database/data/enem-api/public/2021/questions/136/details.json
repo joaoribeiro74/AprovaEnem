@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2021",
+    "index": 136,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um segmento de reta está dividido em duas partes na proporção áurea quando o todo está para uma das partes na mesma razão em que essa parte está para a outra. Essa constante de proporcionalidade é comumente representada pela letra grega ρ, e seu valor é dado pela solução positiva da equação ρ² = ρ + 1\n\nAssim como a potência ρ², as potências superiores de ρ podem ser expressas da forma aρ + b, em que a e b são inteiros positivos, como apresentad0o no quadro.\n\n![](image-136.png)",
+    "files": [
+        "image-136.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A potência ρ7, escrita na forma aρ + b (a e b são inteiros positivos), é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "5ρ + 3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "7ρ + 2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "9ρ + 6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "11ρ + 7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "13ρ + 8",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

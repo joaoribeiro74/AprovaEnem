@@ -1,0 +1,45 @@
+{
+    "title": "Questão 85 - ENEM 2015",
+    "index": 85,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Entre os anos de 1028 e 1038, Alhazen (Ibn al-Haytham; 965-1040 d.C.) escreveu sua principal obra, o Livro da Óptica, que, com base em experimentos, explicava o funcionamento da visão e outros aspectos da ótica, por exemplo, o funcionamento da câmara escura. O livro foi traduzido e incorporado aos conhecimentos científicos ocidentais pelos europeus. Na figura, retirada dessa obra, é representada a imagem invertida de edificações em um tecido utilizado como anteparo.Entre os anos de 1028 e 1038, Alhazen (Ibn al-Haytham; 965-1040 d.C.) escreveu sua principal obra, o Livro da Óptica, que, com base em experimentos, explicava o funcionamento da visão e outros aspectos da ótica, por exemplo, o funcionamento da câmara escura. O livro foi traduzido e incorporado aos conhecimentos científicos ocidentais pelos europeus. Na figura, retirada dessa obra, é representada a imagem invertida de edificações em um tecido utilizado como anteparo.\n\n![](https://enem.dev/2015/questions/85/13f729c5-e019-4d2e-84aa-3d1e97532799.png)",
+    "files": [
+        "https://enem.dev/2015/questions/85/13f729c5-e019-4d2e-84aa-3d1e97532799.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Se fizermos uma analogia entre a ilustração e o olho humano, o tecido corresponde ao(à)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Íris.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Retina.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Pupila.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Córnea.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Cristalino.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

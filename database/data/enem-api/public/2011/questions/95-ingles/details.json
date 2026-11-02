@@ -1,0 +1,45 @@
+{
+    "title": "Questão 95 - ENEM 2011",
+    "index": 95,
+    "year": 2011,
+    "language": "ingles",
+    "discipline": "linguagens",
+    "context": "![](image-95.png)\n\nA tira, definida como um segmento de história em quadrinhos, pode transmitir uma mensagem com efeito de humor.",
+    "files": [
+        "image-95.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A presença desse efeito no diálogo entre Jon e Garfield acontece porque",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Jon pensa que sua ex-namorada é maluca e que Garfield não sabia disso.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Jodell é a única namorada maluca que Jon teve, e Garfield acha isso estranho.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": " Garfield tem certeza de que a ex-namorada de Jon é sensata, o maluco é o amigo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Garfield conhece as ex-namoradas de Jon e considera mais de uma como maluca.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Jon caracteriza a ex-namorada como maluca e não entende a cara de Garfield.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

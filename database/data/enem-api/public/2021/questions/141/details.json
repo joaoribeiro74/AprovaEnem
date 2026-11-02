@@ -1,0 +1,43 @@
+{
+    "title": "Questão 141 - ENEM 2021",
+    "index": 141,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Aplicativos que gerenciam serviços de hospedagem têm ganhado espaço no Brasil e no mundo por oferecer opções diferenciadas em termos de localização e valores de hospedagem. Em um desses aplicativos, o preço P a ser pago pela hospedagem é calculado considerando um preço por diária d, acrescido de uma taxa fixa de limpeza L e de uma taxa de serviço. Essa taxa de serviço é um valor percentual s calculado sobre o valor pago pelo total das diárias.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Nessa situação, o preço a ser pago ao aplicativo para uma hospedagem de n diárias pode ser obtido pela expressão",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "P = d.n + L + d.n.s",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "P = d.n + L + d.s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "P = d + L + s",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "P = d.n.s + L",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "P = d.n + L +s",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

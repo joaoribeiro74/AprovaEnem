@@ -1,0 +1,45 @@
+{
+    "title": "Questão 83 - ENEM 2014",
+    "index": 83,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A utilização de processos de biorremediação de resíduos gerados pela combustão incompleta de compostos orgânicos tem se tornado crescente, visando minimizar a poluição ambiental. Para a ocorrência de resíduos de naftaleno, algumas legislações limitam sua concentração em até 30 mg/kg para solo agrícola e 0,14 mg/L para água subterrânea. A quantificação desse resíduo foi realizada em diferentes ambientes, utilizando-se amostras de 500 g de solo e 100 mL de água, conforme apresentado no quadro.\n\n![](https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png)",
+    "files": [
+        "https://enem.dev/2014/questions/83/014877a8-bf14-4a88-8c0f-70fa10954374.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "O ambiente que necessita de biorremediação é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Solo I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Solo II.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "Água I.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Água II.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Água III.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

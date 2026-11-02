@@ -1,0 +1,45 @@
+{
+    "title": "Questão 89 - ENEM 2016",
+    "index": 89,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O aquecimento de um material por irradiação com micro-ondas ocorre por causa da interação da onda eletromagnética com o dipolo elétrico da molécula. Um importante atributo do aquecimento por micro-ondas é a absorção direta da energia pelo material a ser aquecido. Assim, esse aquecimento é seletivo e dependerá, principalmente, da constante dielétrica e da frequência de relaxação do material. O gráfico mostra a taxa de aquecimento de cinco solventes sob irradiação de micro-ondas.\n\nBARBOZA, A. C. R. N. et al. Aquecimento em forno de micro-ondas. Desenvolvimento de alguns conceitos fundamentais. **Química Nova**, n. 6, 2001 (adaptado).\n\n![](image-89.png)",
+    "files": [
+        "image-89.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "No gráfico, qual solvente apresenta taxa média de aquecimento mais próxima de zero, no intervalo de 0 s a 40 s?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "H₂O",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CH₃OH",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "CH₃CH₂OH",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CH₃CH₂CH₂OH",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "CH₃CH₂CH₂CH₂CH₂CH₃",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

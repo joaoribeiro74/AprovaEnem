@@ -1,0 +1,45 @@
+{
+    "title": "Questão 43 - ENEM 2016",
+    "index": 43,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-humanas",
+    "context": "![](image-43.png)",
+    "files": [
+        "image-43.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "A página do periódico do início do séc XX documenta um importante elemento da cultura francesa, que é revelador do papel do Brasil na economia mundial, indicado no seguinte aspecto:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Prestador de serviços gerais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Exportador de bens industriais.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Importador de padrões estéticos.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Fornecedor de produtos agrícolas.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Formador de padrões de consumo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

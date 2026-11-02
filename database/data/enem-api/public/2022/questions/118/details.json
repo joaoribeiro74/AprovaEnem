@@ -1,0 +1,45 @@
+{
+    "title": "Questão 118 - ENEM 2022",
+    "index": 118,
+    "year": 2022,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em 2002, foi publicado um artigo científico que relacionava alterações na produção de hormônios sexuais de sapos machos expostos à atrazina, um herbicida, com o desenvolvimento anômalo de seus caracteres sexuais primários e secundários. Entre os animais sujeitos à contaminação, observaram-se casos de hermafroditismo e desmasculinização da laringe. O estudo em questão comparou a concentração de um hormônio específico no sangue de machos expostos ao agrotóxico com a de outros machos e fêmeas que não o foram (controles). Os resultados podem ser vistos na figura.\n\n![](https://enem.dev/2022/questions/118/e51b0279-7825-425e-86cf-f1e144cd023e.png)\n\nHAYES, T. B. et al. Hermaphroditic, Demasculinized Frogs After Exposure to the Herbicide Atrazine at Low Ecologically Relevant Doses. **Proceedings of** **the National Academy of Sciences**, n. 8, 2002 (adaptado).",
+    "files": [
+        "https://enem.dev/2022/questions/118/e51b0279-7825-425e-86cf-f1e144cd023e.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nas informações do texto, qual é o hormônio cujas concentrações estão representadas na figura?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Estrogênio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Feromônio",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Testosterona.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Somatotrofina",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Hormônio folículo estimulante.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

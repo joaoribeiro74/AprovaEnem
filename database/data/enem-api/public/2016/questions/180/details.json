@@ -1,0 +1,45 @@
+{
+    "title": "Questão 180 - ENEM 2016",
+    "index": 180,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em 2011, um terremoto de magnitude 9,0 na escala Richter causou um devastador tsunami no Japão, provocando um alerta na usina nuclear de Fukushima. Em 2013, outro terremoto, de magnitude 7,0 na mesma escala, sacudiu Sichuan (sudoeste da China), deixando centenas de mortos e milhares de feridos. A magnitude de um terremoto na escala Richter pode ser calculada por\n\n![](https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png)\n\nsendo E a energia, em kWh, liberada pelo terremoto e E0 uma constante real positiva. Considere que E1 e E2 representam as energias liberadas nos terremotos ocorridos no Japão e na China, respectivamente.",
+    "files": [
+        "https://enem.dev/2016/questions/180/903f1104-77ad-4319-a940-e7e2ab5d498b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Qual a relação entre E1 e E2?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-180a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-180b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-180c.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-180d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-180e.png",
+            "isCorrect": false
+        }
+    ]
+}

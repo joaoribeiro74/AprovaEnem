@@ -1,0 +1,45 @@
+{
+    "title": "Questão 172 - ENEM 2012",
+    "index": 172,
+    "year": 2012,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Agência Espacial Norte Americana (NASA) informou que o asteroide YU 55 cruzou o espaço entre a Terra e a Lua no mês de novembro de 2011. A ilustração a seguir sugere que o asteroide percorreu sua trajetória no mesmo plano que contém a órbita descrita pela Lua em torno da Terra. Na figura, está indicada a proximidade do asteroide em relação à Terra, ou seja, a menor distância que ele passou da superfície terrestre.\n\n![](https://enem.dev/2012/questions/172/a1bd4967-d16c-4d09-b0c0-cd11524f5d94.png)",
+    "files": [
+        "https://enem.dev/2012/questions/172/a1bd4967-d16c-4d09-b0c0-cd11524f5d94.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Com base nessas informações, a menor distância que o asteroide YU 55 passou da superfície da Terra é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3,25 × 10² km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "3,25 × 10³ km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3,25 × 10⁴ km.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,25 × 10⁵ km.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "3,25 × 10⁶ km.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

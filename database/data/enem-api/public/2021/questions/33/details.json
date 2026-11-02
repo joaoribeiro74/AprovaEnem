@@ -1,0 +1,45 @@
+{
+    "title": "Questão 33 - ENEM 2021",
+    "index": 33,
+    "year": 2021,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "![](image-33.png)",
+    "files": [
+        "image-33.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O que assegura o reconhecimento desse texto em quadrinhos como prefácio é o(a)",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Função de apresentação do livro.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Apelo emocional apoiado nas imagens.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Descrição do processo criativo da autora.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Referência à mescla dos trabalhos manual e digital.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Uso de elementos gráficos voltados para o público-alvo.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 144 - ENEM 2021",
+    "index": 144,
+    "year": 2021,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Uma pessoa realizou uma pesquisa com alguns alunos de uma escola, coletando suas idades, e organizou esses dados no gráfico.\n\n![](image-144.png)",
+    "files": [
+        "image-144.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual é a média das idades, em ano, desses alunos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "9",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "19",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "27",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

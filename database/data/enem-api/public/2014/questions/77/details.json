@@ -1,0 +1,43 @@
+{
+    "title": "Questão 77 - ENEM 2014",
+    "index": 77,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O estudo de compostos orgânicos permite aos analistas definir propriedades físicas e químicas responsáveis pelas características de cada substância descoberta. Um laboratório investiga moléculas quirais cuja cadeia carbônica seja insaturada, heterogênea e ramificada.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A fórmula que se enquadra nas características da molécula investigada é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "CH₃–(CH)₂–CH(OH)–CO–NH–CH₃.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "CH₃–(CH)₂–CH(CH₃)–CO–NH–CH₃.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "CH₃–(CH)₂–CH(CH₃)–CO–NH₂.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "CH₃–CH₂–CH(CH₃)–CO–NH–CH₃.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "C₆H₅–CH₂–CO–NH–CH₃.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

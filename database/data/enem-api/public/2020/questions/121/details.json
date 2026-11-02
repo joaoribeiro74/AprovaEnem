@@ -1,0 +1,45 @@
+{
+    "title": "Questão 121 - ENEM 2020",
+    "index": 121,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Em uma aula sobre metabolismo energético, foi apresentado um experimento clássico realizado por Engelmann. Um recipiente contendo bactérias aeróbias e uma alga verde filamentosa foi submetido à iluminação de uma fonte de luz, representada pelo microespectro. Após a explicação, um aluno esquematizou na lousa o resultado do referido experimento.\n\n![](image-121.png)",
+    "files": [
+        "image-121.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando a figura, a faixa do microespectro em que a alga possui maior taxa de realização fotossintética é a do:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Anil.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Verde.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Violeta.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Amarelo.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Vermelho.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}
