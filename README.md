@@ -54,14 +54,23 @@ Plataforma web gratuita para realização de simulados personalizados do ENEM, c
    ./run migrate
    ```
 
-7. Instale as dependências do frontend e compile os assets (a versão do Node também vem do container, não da máquina):
+7. Crie o link do armazenamento público e importe as questões do ENEM:
+
+   ```bash
+   ./run artisan storage:link
+   ./run artisan questions:import --all
+   ```
+
+   A importação de todos os anos pode levar alguns minutos. Para um teste rápido, importe só um ano: `./run artisan questions:import 2023`.
+
+8. Instale as dependências do frontend e compile os assets (a versão do Node também vem do container, não da máquina):
 
    ```bash
    ./run npm install
    ./run dev
    ```
 
-8. Acesse [http://localhost](http://localhost).
+9. Acesse [http://localhost](http://localhost).
 
 ## Comandos úteis (`./run`)
 
@@ -72,22 +81,42 @@ O projeto inclui um script `run` com atalhos para os comandos mais usados:
 | `./run up -d` | Sobe os containers |
 | `./run down` | Derruba os containers |
 | `./run down -v` | Derruba os containers **e apaga os dados do banco** (recria do zero na próxima subida) |
-| `./run ps` | Lista os containers em execução |
 | `./run test` | Roda os testes (banco `testing`, separado do banco de desenvolvimento) |
 | `./run pint` | Verifica/corrige o estilo do código (Laravel Pint) |
 | `./run db:console` | Abre o console `psql` |
 | `./run db:reset` | Reseta o banco de desenvolvimento (`migrate:fresh`) |
 | `./run db:populate` | Roda as seeders |
 | `./run db:fresh` | Reset + seed em um só comando |
-| `./run php:console` | Abre o Tinker (REPL do Laravel) |
 | `./run dev` | Compila o Tailwind/assets em modo watch (Vite) |
-| `./run git:clean:branchs` | Remove branches locais já mescladas |
 | `./run artisan <comando>` | Atalho genérico para qualquer comando Artisan sem um atalho dedicado |
 | `./run npm <comando>` | Atalho genérico para qualquer comando npm |
 | `./run key:generate` | Gera a `APP_KEY` da aplicação |
 | `./run migrate` | Roda as migrations pendentes |
 
 > `db:fresh` já executa o seed automaticamente — não é necessário rodar `db:populate` em seguida (isso causaria erro de chave duplicada nos dados de exemplo).
+
+## Importação
+
+A importação pode ser repetida quantas vezes for preciso: as questões existentes são atualizadas, sem duplicar registros. As imagens são copiadas para `storage/app/public/questions` e os links no texto são reescritos para o armazenamento da aplicação.
+
+```bash
+./run artisan questions:import 2023          # um ano
+./run artisan questions:import 2021 2022     # vários anos
+./run artisan questions:import --all         # todos os anos encontrados na pasta de dados
+```
+
+Para corrigir uma questão, edite o `details.json` dela e importe o ano de novo.
+
+Se o mesmo número aparecer duas vezes com o mesmo idioma (por exemplo, as duas versões de uma questão de língua estrangeira sem o campo `language`), a importação para e lista as pastas envolvidas, para você preencher o campo.
+
+## Conferência dos dados
+
+| Comando | Descrição |
+|---|---|
+| `./run artisan questions:audit <ano>` | Procura problemas nas questões importadas: alternativas faltando, gabarito ausente, textos vazios e imagens que não foram encontradas |
+| `./run artisan questions:check-layouts` | Compara a área de cada questão nos arquivos com a definida em `config/enem.php` e mostra, por ano, quantas são sobrescritas. |
+
+Em ambiente local, as questões importadas podem ser conferidas no navegador em `http://localhost/dev/questions/{ano}`. A página aceita os filtros `?language=ingles`, `?language=espanhol`, `?language=any`, `?from=10&to=20` e `?per_page=20`.
 
 ## Testes
 
