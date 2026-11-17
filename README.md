@@ -125,3 +125,16 @@ O ambiente de testes usa um banco PostgreSQL separado (`testing`), criado automa
 ```bash
 ./run test
 ```
+
+## Licença
+
+Copyright (C) 2026 João Vitor Ribeiro Ribas Carvalho.
+
+Este projeto é distribuído sob a [GNU GPL-2.0](LICENSE), por incluir um conjunto de dados
+licenciado sob essa licença.
+
+### Dados das questões
+
+O conjunto de dados em `database/data/enem-api` é uma versão modificada da pasta `public` do
+projeto [enem.dev](https://github.com/yunger7/enem-api) (GPL-2.0). As modificações estão
+descritas em [`NOTICE.md`](database/data/enem-api/NOTICE.md).

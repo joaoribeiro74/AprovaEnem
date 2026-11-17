@@ -11,7 +11,6 @@ class QuestionImageStore
 
     public function __construct(private LocalDatasetReader $dataset) {}
 
-    /** Copies an image from the dataset to the public disk. Returns its path there, or null if not found. */
     public function store(string $reference, string $baseDir, int $year): ?string
     {
         $file = $this->locate($reference, $baseDir);
@@ -50,13 +49,13 @@ class QuestionImageStore
             '/!\[([^\]]*)\]\(([^)\s]+)\)/',
             function (array $match) use ($baseDir, $year, &$paths) {
                 if (str_starts_with($match[2], '/storage/')) {
-                    return $match[0]; // already localized
+                    return $match[0];
                 }
 
                 $path = $this->store($match[2], $baseDir, $year);
 
                 if ($path === null) {
-                    return $match[0]; // not found: keep the original link
+                    return $match[0];
                 }
 
                 $paths[] = $path;
@@ -73,8 +72,6 @@ class QuestionImageStore
             ? (string) parse_url($reference, PHP_URL_PATH)
             : $reference);
 
-        // the site serves the dataset's "public" folder, so a URL path mirrors a path inside it;
-        // otherwise fall back to the question's own folder
         $candidates = [
             $this->dataset->root().'/'.ltrim($path, '/'),
             $baseDir.'/'.ltrim($path, '/'),
@@ -86,7 +83,6 @@ class QuestionImageStore
         foreach ($candidates as $candidate) {
             $real = realpath($candidate);
 
-            // only files inside the dataset are accepted
             if ($real !== false && is_file($real) && $root !== false && str_starts_with($real, $root)) {
                 return $real;
             }

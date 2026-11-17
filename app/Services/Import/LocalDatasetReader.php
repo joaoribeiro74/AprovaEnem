@@ -31,7 +31,7 @@ class LocalDatasetReader
             ->all();
     }
 
-    /** @return \Generator<array> one question per details.json, with its folder in "_dir" */
+    /** @return \Generator<array> one question per details.json*/
     public function questions(int $year): \Generator
     {
         $dir = "{$this->root()}/{$year}/".self::QUESTIONS_DIR;

@@ -34,7 +34,6 @@ class QuestionImporter
         return $count;
     }
 
-    /** Two entries with the same number and language would silently collapse into a single row. */
     private function assertUniqueIdentities(int $year, Collection $questions): void
     {
         $duplicates = $questions
