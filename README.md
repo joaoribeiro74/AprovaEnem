@@ -128,8 +128,6 @@ O ambiente de testes usa um banco PostgreSQL separado (`testing`), criado automa
 
 ## Licença
 
-Copyright (C) 2026 João Vitor Ribeiro Ribas Carvalho.
-
 Este projeto é distribuído sob a [GNU GPL-2.0](LICENSE), por incluir um conjunto de dados
 licenciado sob essa licença.
 
