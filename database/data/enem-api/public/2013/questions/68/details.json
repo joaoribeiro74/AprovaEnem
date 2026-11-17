@@ -1,0 +1,45 @@
+{
+    "title": "Questão 68 - ENEM 2013",
+    "index": 68,
+    "year": 2013,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O glifosato (C₃H₈NO₅P) é um herbicida pertencente ao grupo químico das glicinas, classificado como não seletivo. Esse composto possui os grupos funcionais carboxilato, amino e fosfonato. A degradação do glifosato no solo é muito rápida e realizada por grande variedade de microrganismos, que usam o produto como fonte de energia e fósforo. Os produtos da degradação são o ácido aminometilfosfônico (AMPA) e o N-metilglicina (sarcosina):\n\n![](https://enem.dev/2013/questions/68/d1879686-065c-4be3-8a4b-2a2867bff97e.png)",
+    "files": [
+        "https://enem.dev/2013/questions/68/d1879686-065c-4be3-8a4b-2a2867bff97e.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A partir do texto e dos produtos de degradação apresentados, a estrutura química que representa o glifosato é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-68a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-68b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-68c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-68d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-68e.png",
+            "isCorrect": false
+        }
+    ]
+}

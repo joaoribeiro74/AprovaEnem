@@ -1,0 +1,45 @@
+{
+    "title": "Questão 177 - ENEM 2020",
+    "index": 177,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "A Figura 1 apresenta uma casa e a planta do seu telhado, em que as setas indicam o sentido do escoamento da água de chuva. Um pedreiro precisa fazer a planta do escoamento da água de chuva de um telhado que tem três caídas de água, como apresentado na Figura 2.\n\n![](image-177.png)",
+    "files": [
+        "image-177.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "A figura que representa a planta do telhado da Figura 2 com o escoamento da água de chuva que o pedreiro precisa fazer é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-177a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-177b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-177c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-177d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-177e.png",
+            "isCorrect": false
+        }
+    ]
+}

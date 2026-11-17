@@ -1,0 +1,46 @@
+{
+    "title": "Questão 106 - ENEM 2020",
+    "index": 106,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Um mergulhador fica preso ao explorar uma caverna no oceano. Dentro da caverna formou-se um bolsão de ar, como mostrado na figura, onde o mergulhador se abrigou.\n\n![](image-106.png)\n\nDurante o resgate, para evitar danos a seu organismo, foi necessário que o mergulhador passasse por um processo de descompressão antes de retornar à superfície para que seu corpo ficasse novamente sob pressão atmosférica. O gráfico mostra a relação entre os tempos de descompressão recomendados para indivíduos nessa situação e a variação de pressão.\n\n![](image-106b.png)\n\nConsidere que a aceleração da gravidade seja igual a 10 m s⁻² e que a densidade da água seja de p = 1 000 kg m⁻³.",
+    "files": [
+        "image-106.png",
+        "image-106b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Em minutos, qual é o tempo de descompressão a que o mergulhador deverá ser submetido?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "100.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "80.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "60.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "40.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "20.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

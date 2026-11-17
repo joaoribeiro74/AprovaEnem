@@ -1,0 +1,45 @@
+{
+    "title": "Questão 136 - ENEM 2015",
+    "index": 136,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um investidor inicia um dia com x ações de uma empresa. No decorrer desse dia, ele efetua apenas dois tipos de operações, comprar ou vender ações. Para realizar essas operações, ele segue estes critérios: \n\n I. vende metade das ações que possui, assim que seu valor fica acima do valor ideal (Vi);\n\n II. compra a mesma quantidade de ações que possui, assim que seu valor fica abaixo do valor mínimo (Vm);\n\n III. vende todas as ações que possui, quando seu valor fica acima do valor ótimo (Vo).\n\n O gráfico apresenta o período de operações e a variação do valor de cada ação, em reais, no decorrer daquele dia e a indicação dos valores ideal, mínimo e ótimo.\n\n![](https://enem.dev/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png)",
+    "files": [
+        "https://enem.dev/2015/questions/136/84935bca-6121-4afe-b517-3d0bce9ed500.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Quantas operações o investidor fez naquele dia?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "3",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "4",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "7",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 174 - ENEM 2015",
+    "index": 174,
+    "year": 2015,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um estudante está pesquisando o desenvolvimento de certo tipo de bactéria. Para essa pesquisa, ele utiliza uma estufa para armazenar as bactérias. A temperatura no interior dessa estufa, em graus Celsius, é dada pela expressão T(h) = − h² + 22h − 85, em que h representa as horas do dia. Sabe-se que o número de bactérias é o maior possível quando a estufa atinge sua temperatura máxima e, nesse momento, ele deve retirá-las da estufa. A tabela associa intervalos de temperatura, em graus Celsius, com as classificações: muito baixa, baixa, média, alta e muito alta.\n\n![](https://enem.dev/2015/questions/174/9ac3cd8a-2315-450e-96c0-25cb9cd65cdd.png)",
+    "files": [
+        "https://enem.dev/2015/questions/174/9ac3cd8a-2315-450e-96c0-25cb9cd65cdd.png"
+    ],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Quando o estudante obtém o maior número possível de bactérias, a temperatura no interior da estufa está classificada como",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Muito baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Baixa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Média.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Alta.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "Muito alta.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

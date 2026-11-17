@@ -1,0 +1,43 @@
+{
+    "title": "Questão 93 - ENEM 2020",
+    "index": 93,
+    "year": 2020,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma pessoa percebe que a bateria de seu veículo fica descarregada após cinco dias sem uso. No início desse período, a bateria funcionava normalmente e estava com o total de sua carga nominal, de 60 Ah. Pensando na possibilidade de haver uma corrente de fuga, que se estabelece mesmo com os dispositivos elétricos do veículo desligados, ele associa um amperímetro digital ao circuito do veículo.",
+    "files": [],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Qual dos esquemas indica a maneira com que o amperímetro deve ser ligado e a leitura por ele realizada?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-93a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-93b.png",
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-93c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-93d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-93e.png",
+            "isCorrect": false
+        }
+    ]
+}

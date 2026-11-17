@@ -1,0 +1,46 @@
+{
+    "title": "Questão 55 - ENEM 2016",
+    "index": 55,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A Figura 1 apresenta o gráfico da intensidade, em decibéis (dB), da onda sonora emitida por um alto-falante, que está em repouso, e medida por um microfone em função da frequência da onda para diferentes distâncias: 3 mm, 25 mm, 51 mm e 60 mm. A Figura 2 apresenta um diagrama com a indicação das diversas faixas do espectro de frequência sonora para o modelo de alto-falante utilizado neste experimento.\n\n![](image-55a.png)\n\n![](image-55b.png)",
+    "files": [
+        "image-55a.png",
+        "image-55b.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Relacionando as informações presentes nas figuras 1 e 2, como a intensidade sonora percebida é afetada pelo aumento da distância do microfone ao alto-falante?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Aumenta na faixa das frequências médias.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Diminui na faixa das frequências agudas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Diminui na faixa das frequências graves.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "Aumenta na faixa das frequências médias altas.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Aumenta na faixa das frequências médias baixas.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

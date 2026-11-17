@@ -1,0 +1,46 @@
+{
+    "title": "Questão 77 - ENEM 2016",
+    "index": 77,
+    "year": 2016,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O trilho de ar é um dispositivo utilizado em laboratórios de física para analisar movimentos em que corpos de prova (carrinhos) podem se mover com atrito desprezível. A figura ilustra um trilho horizontal com dois carrinhos (1 e 2) em que se realiza um experimento para obter a massa do carrinho 2. No instante em que o carrinho 1, de massa 150,0 g, passa a se mover com velocidade escalar constante, o carrinho 2 está em repouso. No momento em que o carrinho 1 se choca com o carrinho 2, ambos passam a se movimentar juntos com velocidade escalar constante. Os sensores eletrônicos distribuídos ao longo do trilho determinam as posições e registram os instantes associados à passagem de cada carrinho, gerando os dados do quadro.\n\n![](https://enem.dev/2016/questions/77/49b1ba7f-e030-4a6f-a45b-904746c94fec.png)\n\n![](https://enem.dev/2016/questions/77/e6446caa-3305-4442-841d-2fd1af3e86d0.png)",
+    "files": [
+        "https://enem.dev/2016/questions/77/49b1ba7f-e030-4a6f-a45b-904746c94fec.png",
+        "https://enem.dev/2016/questions/77/e6446caa-3305-4442-841d-2fd1af3e86d0.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Com base nos dados experimentais, o valor da massa do carrinho 2 é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "50,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "250,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "300,0 g",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "450,0 g",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "600,0 g",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

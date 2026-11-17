@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2016",
+    "index": 176,
+    "year": 2016,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um reservatório é abastecido com água por uma torneira e um ralo faz a drenagem da água desse reservatório. Os gráficos representam as vazões Q, em litro por minuto, do volume de água que entra no reservatório pela torneira e do volume que sai pelo ralo, em função do tempo t, em minuto.\n\n![](image-176.png)",
+    "files": [
+        "image-176.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Em qual intervalo de tempo, em minuto, o reservatório tem uma vazão constante de enchimento?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "De 0 a 10.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "De 5 a 10.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "De 5 a 15.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "De 15 a 25.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "De 0 a 25.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

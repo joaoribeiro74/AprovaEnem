@@ -1,0 +1,43 @@
+{
+    "title": "Questão 132 - ENEM 2023",
+    "index": 132,
+    "year": 2023,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão P₀ no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era T₀. Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente T. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal).",
+    "files": [],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Durante o processo de resfriamento, os valores de pressão em relação à temperatura (P x T) são representados pelo gráfico:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-132a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-132b.webp",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-132c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-132d.webp",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-132e.webp",
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Questão 154 - ENEM 2014",
+    "index": 154,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Boliche é um jogo em que se arremessa uma bola sobre uma pista para atingir dez pinos, dispostos em uma formação de base triangular, buscando derrubar o maior número de pinos. A razão entre o total de vezes em que o jogador derruba todos os pinos e o número de jogadas determina seu desempenho.\n\n Em uma disputa entre cinco jogadores, foram obtidos os seguintes resultados:\n\n Jogador I – Derrubou todos os pinos 50 vezes em 85 jogadas.\n\n Jogador II – Derrubou todos os pinos 40 vezes em 65 jogadas.\n\n Jogador III – Derrubou todos os pinos 20 vezes em 65 jogadas.\n\n Jogador IV – Derrubou todos os pinos 30 vezes em 40 jogadas.\n\n Jogador V – Derrubou todos os pinos 48 vezes em 90 jogadas.",
+    "files": [],
+    "correctAlternative": "D",
+    "alternativesIntroduction": "Qual desses jogadores apresentou maior desempenho?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "I",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "II",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "III",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "IV",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "E",
+            "text": "V",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

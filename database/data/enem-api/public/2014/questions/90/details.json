@@ -1,0 +1,45 @@
+{
+    "title": "Questão 90 - ENEM 2014",
+    "index": 90,
+    "year": 2014,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "As lentes fotocromáticas escurecem quando expostas à luz solar por causa de reações químicas reversíveis entre uma espécie incolor e outra colorida. Diversas reações podem ser utilizadas, e a escolha do melhor reagente para esse fim se baseia em três principais aspectos: (i) o quanto escurece a lente; (ii) o tempo de escurecimento quando exposta à luz solar; e (iii) o tempo de esmaecimento em ambiente sem forte luz solar. A transmitância indica a razão entre a quantidade de luz que atravessa o meio e a quantidade de luz que incide sobre ele.\n\nDurante um teste de controle para o desenvolvimento de novas lentes fotocromáticas, foram analisadas cinco amostras, que utilizam reagentes químicos diferentes. No quadro, são apresentados os resultados.\n\n![](https://enem.dev/2014/questions/90/6f80414f-5fcb-4eac-8dac-2c6c829c91fe.png)",
+    "files": [
+        "https://enem.dev/2014/questions/90/6f80414f-5fcb-4eac-8dac-2c6c829c91fe.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Considerando os três aspectos, qual é a melhor amostra de lente fotocromática para se utilizar em óculos?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "3",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "4",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

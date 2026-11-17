@@ -1,0 +1,45 @@
+{
+    "title": "Questão 158 - ENEM 2014",
+    "index": 158,
+    "year": 2014,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Para analisar o desempenho de um método diagnóstico, realizam-se estudos em populações contendo pacientes sadios e doentes. Quatro situações distintas podem acontecer nesse contexto de teste:\n\n 1) Paciente TEM a doença e o resultado do teste é POSITIVO.\n\n 2) Paciente TEM a doença e o resultado do teste é NEGATIVO.\n\n 3) Paciente NÃO TEM a doença e o resultado do teste é POSITIVO.\n\n 4) Paciente NÃO TEM a doença e o resultado do teste é NEGATIVO.\n\n Um índice de desempenho para avaliação de um teste diagnóstico é a sensibilidade, definida como a probabilidade de o resultado do teste ser POSITIVO se o paciente estiver com a doença.\n\n O quadro refere-se a um teste diagnóstico para a doença A, aplicado em uma amostra composta por duzentos indivíduos.\n\n![](https://enem.dev/2014/questions/158/f3fb8087-ffc9-4624-9550-cb84254ac99f.png)\n\nBENSEÑOR, I. M.; LOTUFO, P. A. **Epidemologia**: abordagem prática.\n\nSão Paulo: Sarvier, 2011 (adaptado).",
+    "files": [
+        "https://enem.dev/2014/questions/158/f3fb8087-ffc9-4624-9550-cb84254ac99f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Conforme o quadro do teste proposto, a sensibilidade dele é de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "47,5%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "85,0%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "86,3%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "94,4%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "95,0%.",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "title": "Questão 157 - ENEM 2022",
+    "index": 157,
+    "year": 2022,
+    "language": null,
+    "discipline": "matematica",
+    "_note": "Anulada pelo INEP",
+    "context": "O funcionário de uma loja tem seu salário mensal formado por uma parcela fixa de 675 reais mais uma comissão que depende da quantidade de peças vendidas por ele no mês. O cálculo do valor dessa comissão é feito de acordo com estes critérios: \n\n• até a quinquagésima peça vendida, paga-se 5 reais por peça; \n\n• a partir da quinquagésima primeira peça vendida, o valor pago é de 7 reais por peça. \n\nRepresente por q a quantidade de peças vendidas no mês por esse funcionário, e por S(q) o seu salário mensal, em real, nesse mês.",
+    "files": [],
+    "correctAlternative": null,
+    "alternativesIntroduction": "A expressão algébrica que descreve S(q) em função de q é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-157a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-157b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-157c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-157d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-157e.png",
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 59 - ENEM 2015",
+    "index": 59,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Uma forma de organização de um sistema biológico é a presença de sinais diversos utilizados pelos indivíduos para se comunicarem. No caso das abelhas da espécie _Apis mellifera_, os sinais utilizados podem ser feromônios. Para saírem e voltarem de suas colmeias, usam um feromônio que indica a trilha percorrida por elas (Composto A). Quando pressentem o perigo, expelem um feromônio de alarme (Composto B), que serve de sinal para um combate coletivo. O que diferencia cada um desses sinais utilizados pelas abelhas são as estruturas e funções orgânicas dos feromônios.\n\n![](https://enem.dev/2015/questions/59/8782c1ff-fc00-4401-a984-cac653c6c3a2.png)",
+    "files": [
+        "https://enem.dev/2015/questions/59/8782c1ff-fc00-4401-a984-cac653c6c3a2.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "As funções orgânicas que caracterizam os feromônios de trilha e de alarme são, respectivamente,",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Álcool e éster.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aldeído e cetona.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Éter e hidrocarboneto.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Enol e ácido carboxílico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Ácido carboxílico e amida.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

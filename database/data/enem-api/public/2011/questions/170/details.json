@@ -1,0 +1,45 @@
+{
+    "title": "Questão 170 - ENEM 2011",
+    "index": 170,
+    "year": 2011,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Todo o país passa pela primeira fase de campanha de vacinação contra a gripe suína (H1N1). Segundo um médico infectologista do Instituto Emílio Ribas, de São Paulo, a imunização “deve mudar”, no país, a história da epidemia. Com a vacina, de acordo com ele, o Brasil tem a chance de barrar uma tendência do crescimento da doença, que já matou 17 mil no mundo. A tabela apresenta dados específicos de um único posto de vacinação.\n\n![](https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png)",
+    "files": [
+        "https://enem.dev/2011/questions/170/038f43e1-f843-49af-bdcd-da787662784d.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Escolhendo-se aleatoriamente uma pessoa atendida nesse posto de vacinação, a probabilidade de ela ser portadora de doença crônica é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "8%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "9%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "11%.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "12%.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "22%.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

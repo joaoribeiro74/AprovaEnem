@@ -1,0 +1,45 @@
+{
+    "title": "Questão 176 - ENEM 2020",
+    "index": 176,
+    "year": 2020,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Em um jogo desenvolvido para uso no computador, objetos tridimensionais vão descendo do alto da tela até alcançarem o plano da base. O usuário pode mover ou girar cada objeto durante sua descida para posicioná-lo convenientemente no plano horizontal. Um desses objetos é formado pela justaposição de quatro cubos idênticos, formando assim um sólido rígido, como ilustrado na figura\n\n![](image-176.png)\n\nPara facilitar a movimentação do objeto pelo usuário, o programa projeta ortogonalmente esse sólido em três planos quadriculados perpendiculares entre si, durante sua descida.",
+    "files": [
+        "image-176.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A figura que apresenta uma possível posição desse sólido, com suas respectivas projeções ortogonais sobre os três planos citados, durante sua descida é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "image-176a.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "image-176b.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "image-176c.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "image-176d.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "image-176e.png",
+            "isCorrect": true
+        }
+    ]
+}

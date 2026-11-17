@@ -1,0 +1,45 @@
+{
+    "title": "Questão 179 - ENEM 2018",
+    "index": 179,
+    "year": 2018,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.\n\n![](https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png)\n\nUma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 cm.",
+    "files": [
+        "https://enem.dev/2018/questions/179/f90ac045-3059-4503-a9c5-2275ede0c308.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "14",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "7 √2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "6 + 4√2",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "6 + 2√2",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

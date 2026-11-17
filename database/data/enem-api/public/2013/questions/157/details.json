@@ -1,0 +1,45 @@
+{
+    "title": "Questão 157 - ENEM 2013",
+    "index": 157,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Num parque aquático existe uma piscina infantil na forma de um cilindro circular reto, de 1 m de profundidade e volume igual a 12 m³ , cuja base tem raio R e centro O. Deseja-se construir uma ilha de lazer seca no interior dessa piscina, também na forma de um cilindro circular reto, cuja base estará no fundo da piscina e com centro da base coincidindo com o centro do fundo da piscina, conforme a figura. O raio da ilha de lazer será r. Deseja-se que após a construção dessa ilha, o espaço destinado à água na piscina tenha um volume de, no mínimo, 4 m³ .\n\n![](https://enem.dev/2013/questions/157/05b2dd08-a2a1-45ea-a618-540da89c4bd3.png)\n\nConsidere 3 como valor aproximado para π",
+    "files": [
+        "https://enem.dev/2013/questions/157/05b2dd08-a2a1-45ea-a618-540da89c4bd3.png"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Para satisfazer as condições dadas, o raio máximo da ilha de lazer r, em metros, estará mais próximo de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "1,6",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "1,7",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "2,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3,0",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3,8",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

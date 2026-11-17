@@ -1,0 +1,45 @@
+{
+    "title": "Questão 165 - ENEM 2013",
+    "index": 165,
+    "year": 2013,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Um artesão de joias tem à sua disposição pedras brasileiras de três cores: vermelhas, azuis e verdes.\n\n Ele pretende produzir joias constituídas por uma liga metálica, a partir de um molde no formato de um losango não quadrado com pedras nos seus vértices, de modo que dois vértices consecutivos tenham sempre pedras de cores diferentes.\n\n A figura ilustra uma joia, produzida por esse artesão, cujos vértices A, B, C e D correspondem às posições ocupadas pelas pedras.\n\n![](https://enem.dev/2013/questions/165/2d41f715-77e6-4676-a0d0-89a5eca34887.png)",
+    "files": [
+        "https://enem.dev/2013/questions/165/2d41f715-77e6-4676-a0d0-89a5eca34887.png"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "Com base nas informações fornecidas, quantas joias diferentes, nesse formato, o artesão poderá obter?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "6",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "12",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "18",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "24",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "36",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "title": "Questão 101 - ENEM 2009",
+    "index": 101,
+    "year": 2009,
+    "language": null,
+    "discipline": "linguagens",
+    "_note" : "Anulada pelo INEP",
+    "context": "![](https://enem.dev/2009/questions/100/8d5cbf39-b768-437a-a494-eb718d3f64a5.jpg)",
+    "files": [
+        "https://enem.dev/2009/questions/100/8d5cbf39-b768-437a-a494-eb718d3f64a5.jpg"
+    ],
+    "correctAlternative": null,
+    "alternativesIntroduction": "Quanto às variantes linguísticas presentes no texto, a norma padrão da língua portuguesa é rigorosamente obedecida por meio",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "do emprego do pronome demonstrativo “esse” em “Por que o senhor publicou esse livro?”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "do emprego do pronome pessoal oblíquo em “Meu filho, um escritor publica um livro para parar de escrevê-lo!”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "do emprego do pronome possessivo “sua” em “Qual foi sua maior motivação?”.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "do emprego do vocativo “Meu filho”, que confere à fala distanciamento do interlocutor. ",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "da necessária repetição do conectivo no último quadrinho.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

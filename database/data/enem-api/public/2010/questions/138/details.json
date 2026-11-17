@@ -1,0 +1,45 @@
+{
+    "title": "Questão 138 - ENEM 2010",
+    "index": 138,
+    "year": 2010,
+    "language": null,
+    "discipline": "matematica",
+    "context": "Alguns testes de preferência por bebedouros de água foram realizados com bovinos, envolvendo três tipos de bebedouros, de formatos e tamanhos diferentes. Os bebedouros 1 e 2 têm a forma de um tronco de cone circular reto, de altura igual a 60 cm, e diâmetro da base superior igual a 120 cm e 60 cm, respectivamente. O bebedouro 3 é um semicilindro, com 30 cm de altura, 100 cm de comprimento e 60 cm de largura. Os três estão ilustrados na A escolha do bebedouro. In: Biotemas. V. 22, n°. 4, 2009 (adaptado). Considerando que nenhum dos recipientes tenha tampa, qual das figuras a seguir representa uma planificação para o bebedouro 3? Questão 139 Uma fábrica produz barras de chocolates no formato de paralelepípedos e de cubos, com o mesmo volume. As arestas da barra de chocolate no formato de paralelepípedo medem 3 cm de largura, 18 cm de comprimento e 4 cm de espessura. Analisando as características das figuras geométricas descritas, a medida das arestas dos chocolates que têm o formato de cubo é igual a 5 cm. 6 cm. 12 cm. 24 cm. 25 cm. recipientes figura.\n\n![](https://enem.dev/2010/questions/138/45398e2b-e687-438b-9e22-6ffeee57f58f.png)",
+    "files": [
+        "https://enem.dev/2010/questions/138/45398e2b-e687-438b-9e22-6ffeee57f58f.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "Considerando que nenhum dos recipientes tenha tampa, qual das figuras a seguir representa uma planificação para o bebedouro 3?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/138/35d4f2e6-34a6-4305-b32b-6e25cc6d92ce.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/138/dd953d59-cb75-4627-9c73-948308498f02.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/138/4e654b9e-b922-44e5-a945-58beaa8b0e70.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/138/8f1dbb6d-c61b-4659-85e2-a447b3ec4d70.png",
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": null,
+            "file": "https://enem.dev/2010/questions/138/10ab101d-94d3-4f8a-88ff-e056aaa11e99.png",
+            "isCorrect": true
+        }
+    ]
+}

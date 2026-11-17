@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2011",
+    "index": 81,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "O peróxido de hidrogênio é comumente utilizado como antisséptico e alvejante. Também pode ser empregado em trabalhos de restauração de quadros enegrecidos e no clareamento de dentes. Na presença de soluções ácidas de oxidantes, como o permanganato de potássio, este óxido decompõe-se, conforme a equação a seguir:\n\n![](https://enem.dev/2011/questions/81/821b4e4b-ae24-40d1-a0fd-149f6b8ce34a.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/81/821b4e4b-ae24-40d1-a0fd-149f6b8ce34a.jpg"
+    ],
+    "correctAlternative": "B",
+    "alternativesIntroduction": "De acordo com a estequiometria da reação descrita, a quantidade de permanganato de potássio necessária para reagir completamente com 20,0 mL de uma solução 0,1 mol/L de peróxido de hidrogênio é igual a",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "2,0×10⁰  mol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "2,0×10⁻³ mol.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "C",
+            "text": "8,0×10⁻¹ mol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "8,0×10⁻⁴ mol.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "5,0×10⁻³ mol.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

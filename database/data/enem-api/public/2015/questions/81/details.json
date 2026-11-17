@@ -1,0 +1,45 @@
+{
+    "title": "Questão 81 - ENEM 2015",
+    "index": 81,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A calda bordalesa é uma alternativa empregada no combate a doenças que afetam folhas de plantas. Sua produção consiste na mistura de uma solução aquosa de sulfato de cobre(II), CuSO₄, com óxido de cálcio, CaO, e sua aplicação só deve ser realizada se estiver levemente básica. A avaliação rudimentar da basicidade dessa solução é realizada pela adição de três gotas sobre uma faca de ferro limpa. Após três minutos, caso surja uma mancha avermelhada no local da aplicação, afirma-se que a calda bordalesa ainda não está com a basicidade necessária. O quadro apresenta os valores de potenciais padrão de redução (E°) para algumas semirreações de redução.\n\n![](https://enem.dev/2015/questions/81/e6f057d4-c517-4cda-b491-a55987d5a8e8.png)",
+    "files": [
+        "https://enem.dev/2015/questions/81/e6f057d4-c517-4cda-b491-a55987d5a8e8.png"
+    ],
+    "correctAlternative": "E",
+    "alternativesIntroduction": "A equação química que representa a reação de formação da mancha avermelhada é:",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Ca²⁺(aq) +  2Cu⁺(aq) --> Ca(s) + 2Cu²⁺(aq)).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "Ca²⁺(aq) + 2Fe²⁺(aq) --> Ca(s) + 2Fe³⁺(aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Cu²⁺(aq) + 2 Fe²⁺(aq) --> Cu(s) + 2Fe³⁺(aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "3 Ca²⁺(aq) + 2 Fe(s) --> 3 Ca(s) + 2Fe³⁺(aq).",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "3 Cu²⁺(aq) + 2 Fe(s) --> 3 Cu(s) + 2 Fe³⁺(aq).",
+            "file": null,
+            "isCorrect": true
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "Questão 72 - ENEM 2011",
+    "index": 72,
+    "year": 2011,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "A bile é produzida pelo fígado, armazenada na vesícula biliar e tem papel fundamental na digestão de lipídeos. Os sais biliares são esteroides sintetizados no fígado a partir do colesterol, e sua rota de síntese envolve várias etapas. Partindo do ácido cólico representado na figura, ocorre a formação dos ácidos glicocólico e taurocólico; o prefixo glico- significa a presença de um resíduo do aminoácido glicina e o prefixo tauro-, do aminoácido taurina.\n\n![](https://enem.dev/2011/questions/72/a3993cf9-e8c8-4700-b189-e277ad950809.jpg)",
+    "files": [
+        "https://enem.dev/2011/questions/72/a3993cf9-e8c8-4700-b189-e277ad950809.jpg"
+    ],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "A combinação entre o ácido cólico e a glicina ou taurina origina a função amida, formada pela reação entre o grupo amina desses aminoácidos e o grupo",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Carboxila do ácido cólico.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Aldeído do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Hidroxila do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Cetona do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Éster do ácido cólico.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

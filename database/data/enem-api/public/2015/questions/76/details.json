@@ -1,0 +1,45 @@
+{
+    "title": "Questão 76 - ENEM 2015",
+    "index": 76,
+    "year": 2015,
+    "language": null,
+    "discipline": "ciencias-natureza",
+    "context": "Para proteger estruturas de aço da corrosão, a indústria utiliza uma técnica chamada galvanização. Um metal bastante utilizado nesse processo é o zinco, que pode ser obtido a partir de um minério denominado esfalerita (ZnS), de pureza 75%. Considere que a conversão do minério em zinco metálico tem rendimento de 80% nesta sequência de equações químicas:\n\n![](image-76.png)\n\nConsidere as massas molares: ZnS (97 g/mol); O₂ (32 g/mol); ZnO (81 g/mol); SO₂ (64 g/mol); CO (28 g/mol); CO₂ (44 g/mol); e Zn (65 g/mol).",
+    "files": [
+        "image-76.png"
+    ],
+    "correctAlternative": "C",
+    "alternativesIntroduction": "Que valor mais próximo de massa de zinco metálico, em quilogramas, será produzido a partir de 100 kg de esfalerita?",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "25",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "B",
+            "text": "33",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "40",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "D",
+            "text": "50",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "54",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}

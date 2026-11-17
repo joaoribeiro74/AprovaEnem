@@ -1,0 +1,43 @@
+{
+    "title": "Questão 22 - ENEM 2019",
+    "index": 22,
+    "year": 2019,
+    "language": null,
+    "discipline": "linguagens",
+    "context": "**Uma ouriça**\n\nSe o de longe esboça lhe chegar perto,  \nse fecha (convexo integral de esfera),  \nse eriça (bélica e multiespinhenta):  \ne, esfera e espinho, se ouriça à espera.  \nMas não passiva (como ouriço na loca);  \nnem só defensiva (como se eriça o gato);  \nsim agressiva (como jamais o ouriço),  \ndo agressivo capaz de bote, de salto  \n(não do salto para trás, como o gato):  \ndaquele capaz de salto para o assalto.\n\nSe o de longe lhe chega em (de longe),  \nde esfera aos espinhos, ela se desouriça.  \nReconverte: o metal hermético e armado  \nna carne de antes (côncava e propícia),  \ne as molas felinas (para o assalto),  \nnas molas em espiral (para o abraço).\n\n**MELO NETO, J. C.** _A educação pela pedra_. Rio de Janeiro:  \nNova Fronteira, 1997.",
+    "files": [],
+    "correctAlternative": "A",
+    "alternativesIntroduction": "Com apuro formal, o poema tece um conjunto semântico que metaforiza a atitude feminina de",
+    "alternatives": [
+        {
+            "letter": "A",
+            "text": "Tenacidade transformada em brandura.",
+            "file": null,
+            "isCorrect": true
+        },
+        {
+            "letter": "B",
+            "text": "Obstinação traduzida em isolamento.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "C",
+            "text": "Inércia provocada pelo desejo platônico.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "D",
+            "text": "Irreverência cultivada de forma cautelosa.",
+            "file": null,
+            "isCorrect": false
+        },
+        {
+            "letter": "E",
+            "text": "Desconfiança consumada pela intolerância.",
+            "file": null,
+            "isCorrect": false
+        }
+    ]
+}
